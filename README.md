@@ -4,6 +4,12 @@
 
 Just for a better understanding of the relationship between `Elm` and `Redux`. And just for `fun` :)
 
+
+### Screenshot
+
+![Animated screenshot of the Bingo app](./screenshot.gif)
+
+
 ### Installation
 
 ```
