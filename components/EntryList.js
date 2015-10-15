@@ -25,7 +25,7 @@ export default class EntryList extends Component {
       <div>
         <ul>
             {entries.map(entryItem =>
-              <EntryItem entry={entryItem}
+              <EntryItem key={entryItem.id} entry={entryItem}
                 del={del} mark={mark} />
             )}
             <li className='total'>
