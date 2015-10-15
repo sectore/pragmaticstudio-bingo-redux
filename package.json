@@ -18,7 +18,7 @@
   "homepage": "http://rackt.github.io/redux",
   "dependencies": {
     "react": "^0.14.0",
-    "react-redux": "^3.1.0",
+    "react-redux": "^4.0.0",
     "redux": "^3.0.0",
     "redux-actions": "^0.8.0",
     "redux-thunk": "^1.0.0"
